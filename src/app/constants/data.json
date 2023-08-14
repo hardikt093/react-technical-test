@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "rating": 4,
+      "description": "“You made it so simple.”",
+      "profileImage": "Brittan_Wheeler",
+      "fullName": "Brittan Wheeler",
+      "designation": "Consultant"
+    },
+    {
+      "id": 2,
+      "rating": 3,
+      "description": "“You made it so simple. My new site is so much faster and easier to work with than my old site. I just choose the page, make the change & it is a good channel for us.”",
+      "profileImage": "Alexa_Popen",
+      "fullName": "Alexa Popen",
+      "designation": "CEO"
+    },
+    {
+      "id": 3,
+      "rating": 5,
+      "description": "“You made it so simple. My new site is so much faster and easier to work with than my old site. I just choose the page, make the change & it is a good channel for us.”",
+      "profileImage": "Leslie_Alexander",
+      "fullName": "Leslie Alexander",
+      "designation": "Founder"
+    },
+    {
+      "id": 4,
+      "rating": 5,
+      "description": "“You made it so simple. My new site is so much faster and easier to work with than my old site. I just choose the page, make the change & it is a good channel for us.”",
+      "profileImage": "Leslie_Alexander",
+      "fullName": "Leslie Alexander",
+      "designation": "Founder"
+    },
+    {
+      "id": 5,
+      "rating": 5,
+      "description": "“You made it so simple. My new site is so much faster and easier to work with than my old site. I just choose the page, make the change & it is a good channel for us.”",
+      "profileImage": "Leslie_Alexander",
+      "fullName": "Leslie Alexander",
+      "designation": "Founder"
+    },
+    {
+      "id": 6,
+      "rating": 5,
+      "description": "“You made it so simple. My new site is so much faster and easier to work with than my old site. I just choose the page, make the change & it is a good channel for us.”",
+      "profileImage": "Leslie_Alexander",
+      "fullName": "Leslie Alexander",
+      "designation": "Founder"
+    }
+  ]

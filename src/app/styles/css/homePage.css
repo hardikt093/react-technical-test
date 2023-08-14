@@ -1,0 +1,57 @@
+.container {
+    position: relative;
+    overflow: hidden;
+}
+
+.homepage-container {
+    display: flex;
+    justify-content: center;
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+    padding: 264px 0 294px;
+    align-items: flex-start;
+    position: relative;
+    z-index: 9;
+}
+
+img.right-gradient {
+    position: absolute;
+    top: 0;
+    right: 0px;
+}
+
+img.left-gradient {
+    position: absolute;
+    bottom: 0;
+    left: -10px;
+}
+
+img.mobile-right-gradient,
+img.mobile-left-gradient {
+    display: none;
+}
+
+@media screen and (max-width:768px) {
+    .homepage-container {
+        padding: 112px 32px;
+    }
+
+    img.mobile-left-gradient {
+        position: absolute;
+        top: 20%;
+        left: -10px;
+        display: block;
+    }
+
+    img.mobile-right-gradient {
+        position: absolute;
+        bottom: 20%;
+        right: -100px;
+        display: block;
+    }
+
+    img.right-gradient {
+        right: -70px;
+    }
+}

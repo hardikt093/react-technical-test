@@ -1,0 +1,44 @@
+.card-container {
+    width: 370px;
+    background-color: var(--white);
+    border: 2px solid var(--black);
+    padding: 30px;
+}
+
+.card-description {
+    font-size: 16px;
+    line-height: 26px;
+    color: rgba(17, 17, 17, 0.80);
+}
+
+.card-footer {
+    display: flex;
+    margin-top: 43px;
+    align-items: center;
+}
+
+.profile-container {
+    display: flex;
+    margin-left: 15px;
+    flex-direction: column;
+}
+
+.username {
+    font-size: 16px;
+    line-height: 24px;
+    color: var(--black);
+}
+
+.designation {
+    font-size: 16px;
+    line-height: 20px;
+    color: var(--black);
+    opacity: 0.7;
+    margin-top: 5px;
+}
+
+@media screen and (max-width:576px) {
+    .card-container {
+        width: 100%;
+    }
+}
